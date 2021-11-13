@@ -1,6 +1,3 @@
-# Vanilla JavaScript App
+# Scythe Score - iOS app for Scythe board game
 
-
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build JavaScript apps in minutes. Use this repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) to build and customize a new static site.
-
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+This repository keeps a website with a privacy policy for the iOS application. The website is hosted on [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview). This website was created from repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) template.
